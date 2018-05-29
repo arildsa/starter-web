@@ -6,6 +6,8 @@ This is a simple website project for showing how to us Git and github together.
 
 ## Introduction
 
+another example
+
 ## Deployment
 
 ## Purpose
