@@ -16,4 +16,7 @@ here too
 
 and another one here
 
+## Copyright
+2018 Git.Training
+
 Sample website with plenty of files for demos
